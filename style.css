@@ -1,5 +1,7 @@
 @media (min-width: 768px) {
 
+}
 
-
+.container-fluid {
+	color: darkgrey;
 }
