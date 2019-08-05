@@ -63,4 +63,9 @@
 				<p>test test testy test</p>
 			</div>
 		</div>
+		<footer class="footer mt-auto py-3">
+			<div class="container">
+				<span class="text-muted">Is this the right footer?</span>
+			</div>
+		</footer>
 	</body>
