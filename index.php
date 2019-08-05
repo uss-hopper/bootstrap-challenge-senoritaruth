@@ -55,6 +55,7 @@
 			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
 		</div>
 		</div>
+		<br>
 		<div class="container-fluid">
 			<div class="container">
 			<div class="media">
